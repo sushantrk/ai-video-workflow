@@ -95,5 +95,5 @@ You talk to it in plain English. No coding skills are needed.
 
 ---
 
-Made with ❤️ by **@sushant.playing.with.ai**
+Made with ❤️ by **@_playing.with.ai**
 Follow for more AI tricks! 🚀
